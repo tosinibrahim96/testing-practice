@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "After listening to many senior developers, testing is one of the things that makes their solutions robust and I want to embrace that habit as early as possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosinibrahim96/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosinibrahim96/testing-practice/issues"
+  },
+  "homepage": "https://github.com/tosinibrahim96/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "node-fetch": "^2.6.0"
+  }
+}
