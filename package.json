@@ -19,6 +19,6 @@
   "homepage": "https://github.com/tosinibrahim96/testing-practice#readme",
   "devDependencies": {
     "jest": "^26.0.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
